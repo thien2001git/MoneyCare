@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.full-screen {
+    width: 100vw;
+    height: 100vh;
+    background: url("images/Background-Giang-sinh-1.jpg") no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-button {
+    margin-top: 500px;
+    padding: 16px;
+    background-color: red;
+    color: white;
+    border: 0;
+    border-radius: 20px;
+}
+
+.my-button:hover {
+    transform: scale(5);
+    transition-duration: 1s;
+}
