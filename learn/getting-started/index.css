@@ -21,3 +21,8 @@
     border: 0;
     border-radius: 20px;
 }
+
+.my-button:hover {
+    transform: scale(5);
+    transition-duration: 1s;
+}
