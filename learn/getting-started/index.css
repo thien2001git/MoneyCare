@@ -6,8 +6,8 @@
 .full-screen {
     width: 100vw;
     height: 100vh;
-    background-color: antiquewhite;
-
+    background: url("images/Background-Giang-sinh-1.jpg") no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
